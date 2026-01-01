@@ -1,6 +1,6 @@
 [package]
 name = "embedded_io_byteorder"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2024"
 description = "byteorder ext for embedded-io traits"
 categories = [
@@ -22,7 +22,7 @@ repository = "https://github.com/823984418/embedded_io_byteorder"
 [dependencies]
 
 [dependencies.embedded-io]
-version = "0.6.1"
+version = "0.7.1"
 
 [dependencies.byteorder]
 version = "1.5.0"
